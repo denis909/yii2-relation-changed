@@ -149,9 +149,9 @@ class RelationChangedBehavior extends \yii\base\Behavior
 
         $e->relation = $relation;
 
-        $e->oldValue = $value;
+        $e->oldValue = $oldValue;
 
-        $e->value = $oldValue;
+        $e->value = $value;
 
         $event = $this->event;
 
