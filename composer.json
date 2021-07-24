@@ -1,0 +1,12 @@
+{
+    "name": "denis909/yii2-relation-changed",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "denis909\\yii\\" : ""
+        }
+    },
+    "require": {
+        "webmozart/assert": "*"
+    }
+}
