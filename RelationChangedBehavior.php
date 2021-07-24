@@ -12,7 +12,6 @@ use yii\db\ActiveRecord;
 /**
  * la-haute-societe/yii2-save-relations-behavior is required
  */
-
 class RelationChangedBehavior extends \yii\base\Behavior
 {
 
