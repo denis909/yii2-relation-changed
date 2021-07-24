@@ -1,5 +1,5 @@
 {
-    "name": "denis909/yii2-relation-changed",
+    "name": "denis909/yii2-relation-changed-behavior",
     "license": "MIT",
     "autoload": {
         "psr-4": {
